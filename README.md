@@ -20,7 +20,8 @@ $ alias edit=<nano|vi|vim|subl>
 $ mkdir -p ${GITHUB_USERNAME}/workspace
 $ cd ${GITHUB_USERNAME}/workspace
 $ pwd
-$ cd ..
+$ cd 
+/home/iamea/eminencegrise1407/workspace
 $ pwd
 ```
 
