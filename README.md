@@ -1,4 +1,4 @@
-## Laboratory work I
+$ mkdir -p ${GITHUB_USERNAME}/workspace## Laboratory work I
 
 Данная лабораторная работа посвещена изучению утилит для разработки проектов
 
@@ -17,15 +17,19 @@ $ alias edit=nano|vi|vim|subl
 ```
 
 ```ShellSession
-$ mkdir -p $eminencegrise1407/workspace
-
+$ mkdir -p ${GITHUB_USERNAME}/workspace
 $ cd $eminencegrise1407/workspace
- ~/eminencegrise1407/workspace
+ ~/eminencegrice1407/workspace
+ 
+$ pwd
+/home/iamea/eminencegrice1407/workspace
+
+$ cd 
+ ~/eminencegrice1407/workspace 
 
 $ pwd
-$ cd 
-/home/iamea/eminencegrise1407/workspace
-$ pwd
+/home/iamea
+
 ```
 
 ```ShellSession
