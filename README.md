@@ -11,14 +11,17 @@
 ## Tutorial
 
 ```bash
-$ export GITHUB_USERNAME=<eminencegrise1407>
-$ export GIST_TOKEN=<**********>
-$ alias edit=<nano|vi|vim|subl>
+$ export GITHUB_USERNAME=eminencegrice1407
+$ export GIST_TOKEN=**********
+$ alias edit=nano|vi|vim|subl
 ```
 
 ```ShellSession
 $ mkdir -p $eminencegrise1407/workspace
+
 $ cd $eminencegrise1407/workspace
+ ~/eminencegrise1407/workspace
+
 $ pwd
 $ cd 
 /home/iamea/eminencegrise1407/workspace
