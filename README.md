@@ -17,8 +17,8 @@ $ alias edit=<nano|vi|vim|subl>
 ```
 
 ```ShellSession
-$ mkdir -p ${GITHUB_USERNAME}/workspace
-$ cd ${GITHUB_USERNAME}/workspace
+$ mkdir -p $eminencegrise1407/workspace
+$ cd $eminencegrise1407/workspace
 $ pwd
 $ cd 
 /home/iamea/eminencegrise1407/workspace
