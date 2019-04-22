@@ -1,4 +1,3 @@
-$ mkdir -p ${GITHUB_USERNAME}/workspace## Laboratory work I
 
 Данная лабораторная работа посвещена изучению утилит для разработки проектов
 
@@ -13,7 +12,7 @@ $ mkdir -p ${GITHUB_USERNAME}/workspace## Laboratory work I
 ```bash
 $ export GITHUB_USERNAME=eminencegrice1407
 $ export GIST_TOKEN=**********
-$ alias edit=nano|vi|vim|subl
+$ alias edit=nano
 ```
 
 ```ShellSession
